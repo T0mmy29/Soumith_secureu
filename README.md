@@ -18,7 +18,11 @@ python3 subdomain.py example.com
 ```
 
 ## What it does
-Output subdomains of a website URL and the HTTP response code with a given wordlist . We can use socket to print the subdomains but I used nmap. <br/>
+Output subdomains of a website URL and the HTTP response code with a given wordlist .<br/>
 Checks for a valid SSL Certificate.<br/>
 Capture ports with their status in the range of 1 to 250.<br/>
 Determines if 'X-XSS-Protection' header is enabled or not.<br/>
+
+###NOTE
+
+We can use socket to print the subdomains but I used nmap. I have also attached the 100wordlist along with 1000wordlist for a better subdomain search.
