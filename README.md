@@ -3,7 +3,7 @@
 ## Requirements
 - We need nmap. If you are using Kali Linux, then you already have nmap. If not, then click on the link to [install nmap](https://nmap.org/download). <br/>
 - If you dont have python installed, you can install the latest version of python from [here](https://www.python.org/downloads/). <br/>
-- You also need to have following modules. If you do not have any of the following modules, install them by pasting the pip command in your terminal. <br/>
+- You also need to have following modules. If you do not have any of the following modules, install them by pasting the pip command in your terminal, and then click enter. <br/>
       - requests - https://pypi.org/project/requests/<br/>
       - nmap - https://pypi.org/project/python-nmap/<br/>
       - dnspython - https://pypi.org/project/dnspython/
