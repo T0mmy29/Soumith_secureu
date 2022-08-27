@@ -25,4 +25,4 @@ Determines if 'X-XSS-Protection' header is enabled or not.<br/>
 
 ###NOTE
 
-We can use socket to print the subdomains but I used nmap. I have also attached the 100wordlist along with 1000wordlist for a better subdomain search.
+We can use socket to print the open and closed ports but I used nmap. I have also attached the 100wordlist along with 1000wordlist for a better subdomain search.
